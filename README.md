@@ -1,4 +1,4 @@
-# Job Application Templates
+# Job Application Free Templates
 
 Professional templates for letters of interest and cover letters, tailored for tech careers.
 
