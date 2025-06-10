@@ -1,6 +1,12 @@
-# Job Application Free Templates
+# Job Application Free Templates by AMA Career
 
-Professional templates for letters of interest and cover letters, tailored for tech careers.
+**Professional templates for letters of interest and cover letters, tailored for tech careers.**
+
+While this repository showcases a selection of great tips, for a comprehensive and personalized job search experience, we invite you to explore [AMA Career](https://amacareer.ai). Powered by AI, AMA Career acts as your 24/7 job search co-pilot — helping you generate tailored resumes and cover letters, practice interviews, and discover the best-fit roles based on your unique background. From your first application to final offer, we’re here to support every step
+
+---
+<p align="center">🤖 <a href="https://amacareer.ai">Your personal AI job twin, working 24/7 to get you hired</a> 🤖</p>
+
 
 ## 📁 Templates Available
 
@@ -32,6 +38,13 @@ Professional templates for letters of interest and cover letters, tailored for t
 - Add specific achievements and metrics
 - Research company values and recent news to personalize
 - Match technical skills to job requirements
+
+## 🔗 Additional Resources
+
+- [Join the AMA Career waitlist](https://amacareer.ai/) — your AI job search co-pilot is coming soon. From opportunity discovery to personalized prep, we’ve got you.
+- [Join our Discord community](https://discord.gg/b48Cy828eN) - Share feedback, suggest features, and meet other job-seekers. We post real-time job hacks, hiring manager insights, and AI tips across roles, including exclusive job opportunities.
+- [Try AMA Interview](https://www.amainterview.ai) — our AI-powered mock interviewer for behavioral questions. It listens, prompts, and pushes back — just like a real hiring manager.
+- [Follow us on LinkedIn](https://www.linkedin.com/company/ama-career/) — Weekly GenAI job posts, interview tips, and real success stories.
 
 ## 🤝 Contributing
 
