@@ -20,6 +20,7 @@ Sincerely,
 [Your Name]
 
 ---
+**💡 Tip: Want to auto-generate personalized letters like this one with one click? Try [AMA Career's Resume & Cover Letter Generator](https://amacareer.ai/ama-career-resume-builder) — powered by your 24/7 AI Job Twin.**
 
 ## Customization Checklist
 
